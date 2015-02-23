@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<connecting>
+  <name text = "lomonosov">
+      <login>vladisalv_251923</login>
+      <server>compiler.lomonosov.parallel.ru</server>
+      <privateKey>/home/chert/.ssh/id_rsa</privateKey>
+      <publicKey>/home/chert/.ssh/id_rsa.pub</publicKey>
+  </name>
+  <name text = "cuda">
+      <login>vladisalv</login>
+      <server>cuda.cs.msu.su</server>
+      <privateKey>/home/chert/.ssh/id_rsa</privateKey>
+      <publicKey>/home/chert/.ssh/id_rsa.pub</publicKey>
+  </name>
+</connecting>
